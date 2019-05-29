@@ -1,0 +1,9 @@
+C:\Users\negfi\Documents\AUT\8th Semester\DB Lab\DB_9431018\DB_9431018\DB_9431018\bin\Debug\DB_9431018.exe.config
+C:\Users\negfi\Documents\AUT\8th Semester\DB Lab\DB_9431018\DB_9431018\DB_9431018\bin\Debug\DB_9431018.exe
+C:\Users\negfi\Documents\AUT\8th Semester\DB Lab\DB_9431018\DB_9431018\DB_9431018\bin\Debug\DB_9431018.pdb
+C:\Users\negfi\Documents\AUT\8th Semester\DB Lab\DB_9431018\DB_9431018\DB_9431018\obj\Debug\DB_9431018.csprojResolveAssemblyReference.cache
+C:\Users\negfi\Documents\AUT\8th Semester\DB Lab\DB_9431018\DB_9431018\DB_9431018\obj\Debug\DB_9431018.Form1.resources
+C:\Users\negfi\Documents\AUT\8th Semester\DB Lab\DB_9431018\DB_9431018\DB_9431018\obj\Debug\DB_9431018.Properties.Resources.resources
+C:\Users\negfi\Documents\AUT\8th Semester\DB Lab\DB_9431018\DB_9431018\DB_9431018\obj\Debug\DB_9431018.csproj.GenerateResource.Cache
+C:\Users\negfi\Documents\AUT\8th Semester\DB Lab\DB_9431018\DB_9431018\DB_9431018\obj\Debug\DB_9431018.exe
+C:\Users\negfi\Documents\AUT\8th Semester\DB Lab\DB_9431018\DB_9431018\DB_9431018\obj\Debug\DB_9431018.pdb
